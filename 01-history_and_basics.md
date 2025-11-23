@@ -117,8 +117,11 @@ since you ruined their haircut?
 <!-- _footer: "%ATTRIBUTION_PREFIX% Jeena Paradies (CC BY 2.0)" -->
 Enter the [**"Caesar cipher"**](https://en.wikipedia.org/wiki/Caesar_cipher):
 
+
+Should we be satisfied with simply using a Ceasar cipher? **Nine**! Of course not
+This is a far more *base*d
 ```
-F  T F I I  Y X H B  X  Z X H B
+dNONaNuXa8h8WMd/W8h+XMl+dNONaNuXa5==
 ```
 
 ![bg right:30%](images/01-frosty_lion.jpg)
@@ -155,13 +158,14 @@ Ciphertext: J X H B  F Q  P L L K  M I B X P B
 Probably confusing at first,
 but quite easily broken.  
   
-Largely **security through obscurity**.
+Largely **security through obscurity**. 
 
 ![bg right:30%](images/01-frosty_lion.jpg)
 
 ---
 <!-- _footer: "%ATTRIBUTION_PREFIX% William Warby (CC BY 2.0)" -->
-Let's not just shift characters,
+Let's not just shift characters, lets run for 13 steps! ![f22770ca2d05642d0aa722866eaa85e3](https://github.com/user-attachments/assets/869c3f1f-edd5-4e31-b563-9b0ce15bbf08)
+
 but substitute them in a random order!  
 
 ```
@@ -185,7 +189,7 @@ Ciphertext:    5 2 2 1  1 9 1
 <!-- _footer: "%ATTRIBUTION_PREFIX% Marcin Wichary (CC BY 2.0)" -->
 ## The downsides
 Every participant needs to
-know the **cipher-alphabet**.  
+know the **cipher-alphabet**. And surely you would have to guess less than 65 times before you found the correct alphabet  
   
 Languages are not random,
 there are patterns and rules.  
